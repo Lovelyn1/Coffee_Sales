@@ -43,18 +43,24 @@ EDA involves exploring the sales data to answer key questions, such as:
 The analysis results are summarized as follows:
 1. The company's sales have been steadiliy increasing over the past 4 years, with a noticeable peak during the quater of the year.
 2. The Leberica and Arabica coffee is the best coffee in terms of sales and revenue.
-3. The United states is producing the most revenue as caompared to Ireland and UK.
-4. The 2.5kg size coffee has the most sales in all 3 countries.
+3. The United states is producing the most revenue as compared to Ireland and UK.
+4. The 2.5kg coffee size has the most sales in all 3 countries.
 5. More customers do not have loyalty card
 
    
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Invest more in the marketting and promotions during peak sales seasons (the first quater of the year) to maximize revenue
-- 
-### Limitations
+- Invest more in the marketting and promotions during peak sales seasons (the first quater of the year) to maximize revenue.
+- Focus on expanding and promoting the Leberica and Arabica coffee.
+- Expand operations in the United States.
+- Produce more of the 2.5kg coffee size in all 3 countries
+- Encourage customers to have loyalty card by increasing it's benefits.
+  
+
 ### References
+
+
 
 
 
