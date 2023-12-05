@@ -60,6 +60,9 @@ Based on the analysis, we recommend the following actions:
 
 ### References
 
+- Excel for Data Analysis
+- [Microsoft Support](https://support.microsoft.com/en-au/office/video-create-a-pivottable-and-analyze-your-data-7810597d-0837-41f7-9699-5911aa282760)
+
 
 
 
